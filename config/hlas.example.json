@@ -1,0 +1,6 @@
+{
+  "voice_id": "SEM_VLOZ_VOICE_ID_Z_ELEVENLABS",
+  "model": "eleven_multilingual_v2",
+  "language": "cs",
+  "whisper_model": "medium"
+}
