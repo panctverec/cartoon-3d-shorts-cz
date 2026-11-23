@@ -1,0 +1,27 @@
+# závislosti a build
+node_modules/
+out/
+build/
+__pycache__/
+*.pyc
+
+# tvoje nastavení, videa a klíče (nikdy na GitHub)
+config/*
+!config/hlas.example.json
+projekty/*
+!projekty/.gitkeep
+public/*
+!public/.gitkeep
+moje-skripty/*
+!moje-skripty/README.md
+!moje-skripty/vychozi/
+moje-reference/*
+!moje-reference/README.md
+*.key
+*.key.txt
+*key*.txt
+.env
+.env.*
+*.mp4
+*.wav
+*.mp3
